@@ -94,7 +94,7 @@ input = string - Base unreveal URI with "IPFS://< CID >"
     error AmountCantBeZero();
     
     
-    ## Slither Scan
+## Slither Scan
     https://res.cloudinary.com/ddtbx9d6f/image/upload/v1651486250/Screenshot_3_eqgmha.png
     --------------------------------
     https://res.cloudinary.com/ddtbx9d6f/image/upload/v1651486250/Screenshot_4_j5f6ew.png
